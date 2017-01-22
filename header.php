@@ -6,7 +6,7 @@
     <script src="bootstrap.3.3.7/content/Scripts/bootstrap.js"></script>
     <link href="bootstrap.3.3.7/content/Content/bootstrap.css" rel="stylesheet" />
 
-	<title>Vc Schedules</title>
+	<title> App Title </title>
 </head>
 <body>
     <div class="navbar navbar-inverse navbar-fixed-top" style="background-color:rgb(51, 51, 57);height:50px;">
@@ -21,7 +21,7 @@
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                       <li><a href="~/">Vice Chancelor Secterate University of Balochistan</a></li>
+                       <li><a href="~/">Application brand icon</a></li>
 
                     </ul>
                    
